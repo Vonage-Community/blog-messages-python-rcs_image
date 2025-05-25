@@ -1,0 +1,14 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+venv/
+.env/
+.venv/
+
+# dotenv file with secrets
+.env
+
+# Vonage private key
+private.key
